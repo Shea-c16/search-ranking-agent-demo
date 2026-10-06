@@ -1,0 +1,31 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment / secrets
+.env
+*.env
+secrets.toml
+*.key
+*.pem
+*_token*
+*_secret*
+
+# IDE
+.vscode/
+
+# Temporary files
+tmp/
+temp/
+*.log
+
+# Real company/private data
+real_data/
+internal_data/
+company_data/
+raw_tickets/
